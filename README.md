@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/Novigra/Novigra/blob/main/duck-dance2.gif)
+![](https://github.com/Novigra/Novigra/blob/main/duck-dance.gif)
 
 :umbrella: :cloud: :snowflake: 
 * Unreal Engine enthusiast. :zap:
