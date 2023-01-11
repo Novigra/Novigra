@@ -7,7 +7,7 @@
 * OpenGL average enjoyer.
 * Gamer at heart.
 :ocean: :crescent_moon: :squirrel:
-* Top Languages
-  *C++
-  *JAVA
-  *PYTHON
+Markup : * Top Languages
+            *C++
+            *JAVA
+            *PYTHON
