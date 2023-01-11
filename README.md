@@ -6,8 +6,8 @@
 * Unreal Engine enthusiast.
 * OpenGL average enjoyer.
 * Gamer at heart.
-:ocean: :crescent_moon: :squirrel:
-Markup : * Top Languages
-            *C++
-            *JAVA
-            *PYTHON
+:ocean: :crescent_moon:
+* Top Languages :-
+*C++.
+*JAVA.
+*PYTHON.
