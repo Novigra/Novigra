@@ -6,4 +6,4 @@
 * Unreal Engine enthusiast. :zap:
 * OpenGL average enjoyer. :ocean:
 * Gamer at heart. :crescent_moon:
-* Top Languages : C++, JAVA, PYTHON.
+* Top Languages : C++, C#, Java.
