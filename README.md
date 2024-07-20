@@ -1,5 +1,5 @@
 <h1 align="center">😳Oh... Hi, I'm Mohammed Kenawy</h1>
-<h3 align="center">A passionate computer science student from the land of the pharaohs𓅂𓎼𓇌𓊪𓏏</h3>
+<h3 align="center">A passionate computer science graduate from the land of the pharaohs𓅂𓎼𓇌𓊪𓏏</h3>
 
 - 🔭 Finished my graduation project and currently writing proper documentation for the project repository [3D-PlatformerGame-GraduationProject](https://github.com/Novigra/3D-PlatformerGame-GraduationProject)
 
