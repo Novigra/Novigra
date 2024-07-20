@@ -1,7 +1,7 @@
 <h1 align="center">😳Oh... Hi, I'm Mohammed Kenawy</h1>
 <h3 align="center">A passionate computer science student from the land of the pharaohs𓅂𓎼𓇌𓊪𓏏</h3>
 
-- 🔭 I’m currently working on my graduation project [Grief](https://github.com/Novigra/Grief)
+- 🔭 Finished my graduation project and currently writing proper documentation for the project repository [Grief](https://github.com/Novigra/Grief)
 
 - 📫 How to reach me **unit0351@gmail.com**
 
