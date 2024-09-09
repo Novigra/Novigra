@@ -1,8 +1,22 @@
 <h1 align="center">😳Oh... Hi, I'm Mohammed Kenawy</h1>
 <h3 align="center">A passionate computer science graduate from the land of the pharaohs𓅂𓎼𓇌𓊪𓏏</h3>
 
-- 🔭 Finished my graduation project and currently writing proper documentation for the project repository [3D-PlatformerGame-GraduationProject](https://github.com/Novigra/3D-PlatformerGame-GraduationProject)
-
+- 🎓 Graduation Project [3D-PlatformerGame-GraduationProject](https://github.com/Novigra/3D-PlatformerGame-GraduationProject)
+- 🧙🏼‍♂️ Currently working on a screenwriting software integrated with Unreal Engine, connected to the Azure cloud solution.
+  - Tools: -
+  - Desktop
+    - .NET C#
+    - WPF
+  - Web
+    - ASP .NET Core
+    - React
+    - HTML
+    - CSS
+    - JS
+  - Database
+    - MongoDB
+  - Cloud
+    - Azure
 - 📫 How to reach me **mk.mohammed.kenawy@gmail.com**
 
 
