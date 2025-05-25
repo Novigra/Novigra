@@ -1,6 +1,12 @@
 <h1 align="center">Oh...😳 Hi, I'm Mohammed Kenawy. どうぞ よろしく 😊🌠🐢</h1>
 <h3 align="center">A passionate computer science graduate from the land of the pharaohs𓅂𓎼𓇌𓊪𓏏</h3>
 
+## The never-ending interview cycle from hell.
+![Madness](https://github.com/user-attachments/assets/2e50227a-fdb9-48bb-9e50-ccf1cadbf561)
+(My sanity is still intact somehow)
+
+
+## What I'm currently doing!!!
 - 🎓 Graduation Project [3D-PlatformerGame-GraduationProject](https://github.com/Novigra/3D-PlatformerGame-GraduationProject)
 - 🧙🏼‍♂️ Currently working on a screenwriting software integrated with Unreal Engine, connected to the Azure cloud solution.
   - Tools: -
