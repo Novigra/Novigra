@@ -1,4 +1,4 @@
-<h1 align="center">😳Oh... Hi, I'm Mohammed Kenawy</h1>
+<h1 align="center">Oh...😳 Hi, I'm Mohammed Kenawy. どうぞ よろしく 😊🌠🐢</h1>
 <h3 align="center">A passionate computer science graduate from the land of the pharaohs𓅂𓎼𓇌𓊪𓏏</h3>
 
 - 🎓 Graduation Project [3D-PlatformerGame-GraduationProject](https://github.com/Novigra/3D-PlatformerGame-GraduationProject)
