@@ -1,6 +1,13 @@
 <h1 align="center">Oh...😳 Hi, I'm Mohammed Kenawy. どうぞ よろしく 😊🌠🐢</h1>
 <h3 align="center">A passionate computer science graduate from the land of the pharaohs𓅂𓎼𓇌𓊪𓏏</h3>
 
+## About me
+- Capital G Gamer.
+- I love cats!🐱 But I’m also Egyptian so, fork found in the kitchen, I guess.
+- I’m currently studying Japanese 🇯🇵. It’s a beautiful language, but Kanji scares me ngl.
+- It’s currently 3:31 AM, May 26th, 2025. There’s a UI bug I can’t fix (no, I won’t use AI please leave me alone), so I’m editing the readme file for the third time... if you wanna know where my priorities are.
+- I love working on video games, graphics, and apps. But honestly, I’ll work on anything as long as it’s fun and I get to learn something new.
+
 ## The never-ending interview cycle from hell.
 ![Madness](https://github.com/user-attachments/assets/2e50227a-fdb9-48bb-9e50-ccf1cadbf561)
 (My sanity is still intact somehow)
