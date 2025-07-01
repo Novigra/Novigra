@@ -5,8 +5,9 @@
 - Capital G Gamer.
 - I love cats!🐱 But I’m also Egyptian so, fork found in the kitchen, I guess.
 - I’m currently studying Japanese 🇯🇵. It’s a beautiful language, but Kanji scares me ngl.
-- It’s currently 3:44 AM, May 26th, 2025. There’s a UI bug I can’t fix (no, I won’t use AI please leave me alone), so I’m editing the readme file for the ~~third~~ fourth time... if you wanna know where my priorities are.
+- ~~It’s currently 3:44 AM, May 26th, 2025. There’s a UI bug I can’t fix (no, I won’t use AI please leave me alone), so I’m editing the readme file for the ~~third~~ fourth time... if you wanna know where my priorities are.~~ I fixed it 😊
 - I love working on video games, graphics, and apps. But honestly, I’ll work on anything as long as it’s fun and I get to learn something new.
+- I’d really appreciate it if the hiring process didn’t include a coding assessment. PLLLEAAASEEE, I keep getting cooked and LeetCode already took half my hair 😭
 
 ## The never-ending interview cycle from hell.
 ![Madness](https://github.com/user-attachments/assets/2e50227a-fdb9-48bb-9e50-ccf1cadbf561)
@@ -16,6 +17,8 @@
 ## What I'm currently doing!!!
 - 🎓 Graduation Project [3D-PlatformerGame-GraduationProject](https://github.com/Novigra/3D-PlatformerGame-GraduationProject)
 - 🧙🏼‍♂️ Currently working on a screenwriting software integrated with Unreal Engine, connected to the Azure cloud solution.
+  - The WPF App is currently in a private repo. If you'd like access, feel free to contact me!
+  - [UE Tool](https://github.com/Novigra/DialogueSystemUETool). Still working on the tool, but a few features are pretty much done.
   - Tools: -
   - Desktop
     - .NET C#
