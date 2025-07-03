@@ -9,7 +9,7 @@
 - I love working on video games, graphics, and apps. But honestly, I’ll work on anything as long as it’s fun and I get to learn something new.
 - I’d really appreciate it if the hiring process didn’t include a coding assessment. PLLLEAAASEEE, I keep getting cooked and LeetCode already took half my hair 😭
 
-## The never-ending interview cycle from hell.
+## The never-ending interview preparation cycle from hell.
 ![Madness](https://github.com/user-attachments/assets/2e50227a-fdb9-48bb-9e50-ccf1cadbf561)
 (My sanity is still intact somehow)
 
@@ -33,11 +33,13 @@
     - MongoDB
   - Cloud
     - Azure
-- 📫 How to reach me **mk.mohammed.kenawy@gmail.com**
+
+## Let's Connect
+- Email: **mk.mohammed.kenawy@gmail.com**
+- LinkedIn: [Mohammed Kenawy](https://www.linkedin.com/in/mohammed-kenawy-eg/)
 
 
-
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>   </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=novigra&show_icons=true&locale=en&layout=compact" alt="novigra" /></p>
