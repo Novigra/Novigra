@@ -17,8 +17,7 @@
 ## What I'm currently doing!!!
 - 🎓 Graduation Project [3D-PlatformerGame-GraduationProject](https://github.com/Novigra/3D-PlatformerGame-GraduationProject)
 - 🧙🏼‍♂️ Currently working on a screenwriting software integrated with Unreal Engine, connected to the Azure cloud solution.
-  - The WPF App is currently in a private repo. If you'd like access, feel free to contact me!
-  - [UE Tool](https://github.com/Novigra/DialogueSystemUETool). Still working on the tool, but a few features are pretty much done.
+  - The WPF App and UE Tool are currently in a private repo. If you'd like access, feel free to contact me!
   - Tools: -
   - Desktop
     - .NET C#
