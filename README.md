@@ -13,12 +13,12 @@
 - 🎓 Graduation Project [3D-PlatformerGame-GraduationProject](https://github.com/Novigra/3D-PlatformerGame-GraduationProject)
 - 🧙🏼‍♂️ Currently working on a screenwriting software integrated with Unreal Engine, connected to the Azure cloud solution.
   - The WPF App and UE Tool are currently in a private repo. If you'd like access, feel free to contact me!
-  - Important note: Keep in mind that this project is a continuous learning process, and I don’t know everything. I’m currently confident with .NET and WPF, which I’ve been using for over a year, but the rest of the stack like web, database, and cloud are still uncharted territory for me. As I reach the point where I need to learn and apply them, I’ll update the README accordingly.🫡
+  - **What I'm working on right now: The app is about 90% complete, and I’m currently building an unreal engine tool to make the files engine compatible and provide useful features that help developers and designers work more efficiently.**
   - Tools: -
   - Desktop
     - .NET C#
     - WPF
-  - Web
+  - Web **(Postponed and planned for a future update instead of the initial release. Who knew that working solo on an insanely large project could be this much for one person?)** 💀💀
     - ASP .NET Core
     - React
     - HTML
@@ -28,6 +28,8 @@
     - MongoDB
   - Cloud
     - Azure
+
+Important note: Keep in mind that this project is a continuous learning process, and I don’t know everything. I’m currently confident with .NET and WPF, which I’ve been using for over a year, but the rest of the stack like web, database, and cloud are still uncharted territory for me. As I reach the point where I need to learn and apply them, I’ll update the README accordingly.🫡
 
 ## Let's Connect
 - Email: **mk.mohammed.kenawy@gmail.com**
