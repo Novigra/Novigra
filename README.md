@@ -2,6 +2,7 @@
 <h3 align="center">A passionate computer science graduate from the land of the pharaohs𓅂𓎼𓇌𓊪𓏏</h3>
 
 ## About me
+- Call me Keem or Keemu.
 - Capital G Gamer.
 - I love cats!🐱 But I’m also Egyptian so, fork found in the kitchen, I guess.
 - I’m currently studying Japanese 🇯🇵. It’s a beautiful language, but Kanji scares me ngl.
@@ -10,8 +11,8 @@
 - I’d really appreciate it if the hiring process didn’t include a coding assessment. PLLLEAAASEEE, I keep getting cooked and LeetCode already took half my hair 😭
 
 ## What I'm currently doing!!!
-- Developed screenwriting software for video game development. It's built to enhance the workflow and pipeline of story development. It will be released on 7th October 2026.
-- Graduation Project [3D-PlatformerGame-GraduationProject](https://github.com/Novigra/3D-PlatformerGame-GraduationProject)
+- Developed a [narrative application for video game development](https://github.com/Novigra/UDSH_App). It's built to enhance the workflow and pipeline of story development. The source code is private. If you want to access the source code, you can absolutely reach out to me!
+- [Graduation 3D platformer game Project](https://github.com/Novigra/3D-PlatformerGame-GraduationProject)
 
 ## Let's Connect
 - Email: **mk.mohammed.kenawy@gmail.com**
